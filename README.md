@@ -1,4 +1,4 @@
-# TN Jessica Process
+# TN Jessicas Process
 The data, notebooks, and process notes for TN-Jessicas-Project
 ---
 This is the second published project I have for the 2024 Lede Program. For this project, we were tasked with creating a visualization for [this data.](https://www.ssa.gov/oact/babynames/limits.html)
